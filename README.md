@@ -23,7 +23,7 @@
         <li>AGENT P</li>
         <li>Perry the plattipus</li>
 
-    </ul>
+ 
     <h2>Other Movies</h2>
     <ol>
         <li>Coming up soon stay tuned
@@ -39,6 +39,7 @@
     </ol>
     <hr />
 </body>
+   </ul>
 </html>
 
 
