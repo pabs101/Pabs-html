@@ -24,7 +24,7 @@
         <li>Perry the plattipus</li>
 
  
-    <h2>Other Movies</h2>
+    
     <ol>
         <li>Coming up soon stay tuned
 
