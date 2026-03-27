@@ -25,18 +25,9 @@
 
  
     
-    <ol>
-        <li>Coming up soon stay tuned
-
-            <ol><li>check it out 
-                <li>Very soon you'll see</li>
-            </li>
-        </ol>
-        </li>
-        <li>Danger</li>
+    </ul>
 
 
-    </ol>
     <hr />
 </body>
    </ul>
